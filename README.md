@@ -2,7 +2,6 @@
 
 
 ## I'm a Developer and a Teacher!
-***
 - I’m currently working for Ironhack 🛠️
 - I ❤️ to use MERN (Mongo Express React Node) stack to resolve anykind of problem and get further 🔭
 - I also build and deploy mobile application (iOS/ Android) with React Native 📱
