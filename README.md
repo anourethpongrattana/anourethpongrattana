@@ -8,7 +8,7 @@
 - I also build and deploy mobile application (iOS/ Android) with React Native 📱
 
 #### Currently looking at:
-[![React][React.js]][React-url]
+![alt text](http://url/to/img.png)
 <!--
 **anourethpongrattana/anourethpongrattana** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
