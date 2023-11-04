@@ -8,7 +8,7 @@
 
 ***
 #### Currently looking at:
-<img src="[/img/contact.png](https://github.com/anourethpongrattana/anourethpongrattana/assets/26859020/5d20888f-f428-49b4-9a78-3fb635fc2637)" alt="image" style="width:20px;height:auto;">
+<img src="https://github.com/anourethpongrattana/anourethpongrattana/assets/26859020/5d20888f-f428-49b4-9a78-3fb635fc2637" alt="image" style="width:20px;height:auto;">
 ![css](https://github.com/anourethpongrattana/anourethpongrattana/assets/26859020/59f58080-e7dd-4a16-8b70-0f49ae6c610b)
 ![javascript](https://github.com/anourethpongrattana/anourethpongrattana/assets/26859020/a253bd8a-333e-4f98-9109-55062ad4c639)
 ![react](https://github.com/anourethpongrattana/anourethpongrattana/assets/26859020/d5d1fe98-3df1-4059-91c6-d81e8064b5b3)
