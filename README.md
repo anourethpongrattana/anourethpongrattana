@@ -5,7 +5,7 @@
 - I’m currently working for Ironhack 🛠️
 - I ❤️ to use MERN (Mongo Express React Node) stack to resolve anykind of problem and get further 🔭
 - I also build and deploy mobile application (iOS/ Android) with React Native 📱
-![html](https://github.com/anourethpongrattana/anourethpongrattana/assets/26859020/5d20888f-f428-49b4-9a78-3fb635fc2637){ width: 20px; }
+![html]{ width: 20px; }(https://github.com/anourethpongrattana/anourethpongrattana/assets/26859020/5d20888f-f428-49b4-9a78-3fb635fc2637)
 ![css](https://github.com/anourethpongrattana/anourethpongrattana/assets/26859020/59f58080-e7dd-4a16-8b70-0f49ae6c610b){ width: 20px; }
 ![javascript](https://github.com/anourethpongrattana/anourethpongrattana/assets/26859020/a253bd8a-333e-4f98-9109-55062ad4c639){ width: 20px; }
 ![react](https://github.com/anourethpongrattana/anourethpongrattana/assets/26859020/d5d1fe98-3df1-4059-91c6-d81e8064b5b3){ width: 20px; }
