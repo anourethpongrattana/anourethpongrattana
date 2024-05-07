@@ -2,7 +2,8 @@
 
 
 ## I'm a Developer and a Teacher!
-- I’m currently working for Ironhack and teaching the MERN (Mongo Express React Node) stack 🛠️
+- I'm currently working for GSA Healthcare, Expert in B2B commercial relations for the healthcare industries. Where i make a SaaS for the pharmacist on Next.js (https://nextjs.org) whith th UI Library NextUI (https://nextui.org/) and an api on ExpressJS 
+- I’m also working for Ironhack and teaching the MERN (Mongo ExpressJS React Nodejs) stack 🛠️
 - I ❤️ to use Next.js to resolve anykind of problem and get further 🔭
 - I also build and deploy mobile application (iOS/ Android) with React Native 📱
 
